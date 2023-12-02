@@ -2,7 +2,7 @@ import React from 'react';
 
 import 'swiper/css';
 import './Swiper/Swiper.css';
-import {SwiperRow} from "./Swiper/swiper";
+import {SwiperRow} from "./Swiper/Swiper";
 
 import ReactIcon from './assets/images/react.svg'
 import Redux from './assets/images/redux.svg'
